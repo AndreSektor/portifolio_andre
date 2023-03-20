@@ -46,7 +46,7 @@
 }
 </script>
 
-<style scoped>
+<style>
 .experiencias {
   display: flex;
   flex-wrap: wrap;
