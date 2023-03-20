@@ -16,9 +16,9 @@
     position: fixed;
     bottom: 0;
     left: 0;
-    height: 200px;
+    height: 90px;
     background-color: #222;
-    border-top: 4px solid #111;
+    border-top: 2px solid #111;
     color: #FBCA03;
     display: flex;
     align-items: center;

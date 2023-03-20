@@ -44,4 +44,13 @@
     color: #222;
   }
 
+  @media only screen and (max-width: 768px) {
+    .main-container {
+      flex-direction: column;
+      padding: 15px;
+      max-width: 1200px;
+      margin: 0 auto;
+      display: block;
+    }
+  }
 </style>
