@@ -56,7 +56,8 @@
 ul {
   flex-basis: calc(50% - 20px);
   padding: 0 10px;
-  margin-bottom: 30px;
+  margin-bottom: 100px;
+  width: auto;
 }
 
 </style>
