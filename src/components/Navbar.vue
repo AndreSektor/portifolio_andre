@@ -4,7 +4,7 @@
             <img :src="perfil" :alt="alt" id="perfil">
         </router-link>
         <router-link to="/">Home</router-link> 
-        <router-link to="/sobre">Sobre</router-link>
+        <router-link to="/habilidades">Habilidades</router-link>
         <router-link to="/experiencias">Experiências</router-link>
     </div>    
 </template>
